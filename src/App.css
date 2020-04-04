@@ -2,6 +2,27 @@
   text-align: center;
 }
 
+.Jumbo-home {
+    background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./home.jpg');
+    background-size: cover;
+    height: 100vh;
+ 
+}
+
+.Jumbo-generator {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./generator.jpg');
+  background-size: cover;
+  height: 100vh;
+
+}
+
+.Jumbo-about {
+  background: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url('./about.jpg');
+  background-size: cover;
+  height: 100vh;
+
+}
+
 .App-logo {
   height: 40vmin;
   pointer-events: none;
